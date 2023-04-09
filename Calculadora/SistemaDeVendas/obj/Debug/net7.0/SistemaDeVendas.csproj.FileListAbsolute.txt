@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\xunit_study\Calculadora\SistemaDeVendas\obj\Debug\net7.0\SistemaDeVendas.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\xunit_study\Calculadora\SistemaDeVendas\obj\Debug\net7.0\SistemaDeVendas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\xunit_study\Calculadora\SistemaDeVendas\obj\Debug\net7.0\SistemaDeVendas.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\xunit_study\Calculadora\SistemaDeVendas\obj\Debug\net7.0\SistemaDeVendas.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\xunit_study\Calculadora\SistemaDeVendas\obj\Debug\net7.0\SistemaDeVendas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\xunit_study\Calculadora\SistemaDeVendas\bin\Debug\net7.0\SistemaDeVendas.deps.json
+C:\Users\Usuario\Desktop\xunit_study\Calculadora\SistemaDeVendas\bin\Debug\net7.0\SistemaDeVendas.dll
+C:\Users\Usuario\Desktop\xunit_study\Calculadora\SistemaDeVendas\bin\Debug\net7.0\SistemaDeVendas.pdb
+C:\Users\Usuario\Desktop\xunit_study\Calculadora\SistemaDeVendas\obj\Debug\net7.0\SistemaDeVendas.dll
+C:\Users\Usuario\Desktop\xunit_study\Calculadora\SistemaDeVendas\obj\Debug\net7.0\refint\SistemaDeVendas.dll
+C:\Users\Usuario\Desktop\xunit_study\Calculadora\SistemaDeVendas\obj\Debug\net7.0\SistemaDeVendas.pdb
+C:\Users\Usuario\Desktop\xunit_study\Calculadora\SistemaDeVendas\obj\Debug\net7.0\ref\SistemaDeVendas.dll
+C:\Users\Usuario\Desktop\xunit_study\Calculadora\SistemaDeVendas\bin\Debug\net7.0\Calculadora.dll
+C:\Users\Usuario\Desktop\xunit_study\Calculadora\SistemaDeVendas\bin\Debug\net7.0\Calculadora.pdb
+C:\Users\Usuario\Desktop\xunit_study\Calculadora\SistemaDeVendas\obj\Debug\net7.0\SistemaDeVendas.csproj.CopyComplete

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9K1at2pZOHdjslhO47k5v7CIB3FUzCbjJG1Jm0fK1Trm9LVQtsd1ybNFFf2hsL5CD6Pn9ksgIrLXMsdAGVJ+LQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\xunit_study\\Calculadora\\Debugging\\Debugging.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\moq\\4.18.4\\moq.4.18.4.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
